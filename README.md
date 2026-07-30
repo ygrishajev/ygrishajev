@@ -1,8 +1,4 @@
-# Iaroslav Gryshaiev
-
-Platform and full-stack engineer. TypeScript, Node.js, Kubernetes, PostgreSQL.
-
-Ten years building products and the platforms they run on. I like owning a problem end to end — the feature, the service under it, the pipeline that ships it, and the instrumentation that tells us it worked.
+Twelve years building products and the platforms they run on. I like owning a problem end to end — the feature, the service under it, the pipeline that ships it, and the instrumentation that tells us it worked.
 
 ### Now — Akash Console @ Overclock Labs
 
@@ -16,9 +12,9 @@ Ten years building products and the platforms they run on. I like owning a probl
 
 ### Before
 
-**Software Engineering Team Lead** @ Ready Player Me — led a team of 7 inside an org that grew from 5 to 30+ engineers; built the internal microservices platform (core libraries, service templates, shared CI) behind an avatar API used by 3,500+ developers.
+**Software Engineering Team Lead** @readyplayerme — led a team of 7 and helped grow the org from 5 to 30+ engineers: one of several technical interviewers through that growth, plus onboarding and team structure. Built the internal microservices platform — core libraries, service templates, shared CI — behind an avatar API used by 3,500+ developers.
 
-**Lead Engineer** @ Peakers — personalization engine, monolith → event-driven microservices.
+**Lead Engineer** @PeakersInc — personalization engine, monolith → event-driven microservices.
 
 ### Things I started
 
@@ -36,8 +32,3 @@ In [`akash-network/console`](https://github.com/akash-network/console), where th
 - [`packages/env-loader`](https://github.com/akash-network/console/tree/main/packages/env-loader) — unified env loading
 
 Also the npm workspaces restructuring the monorepo runs on, and sustained work across the API, web app, payments and wallet platform, provider marketplace, and the observability stack.
-
----
-
-📍 Spain · remote
-[LinkedIn](https://www.linkedin.com/in/iaroslav-gryshaiev-a4172045)
