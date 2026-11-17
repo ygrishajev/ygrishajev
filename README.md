@@ -50,4 +50,4 @@ Also the npm workspaces restructuring the monorepo runs on, and sustained work a
 
 **Stack:** TypeScript · Node.js · NestJS · React / Next.js · PostgreSQL · Kubernetes · OpenTelemetry · Stripe
 
-Open to senior / staff product and platform roles, remote EU · [LinkedIn](https://linkedin.com/in/igryshaiev)
+Open to senior / staff product and platform roles, remote · [LinkedIn](https://linkedin.com/in/igryshaiev)
